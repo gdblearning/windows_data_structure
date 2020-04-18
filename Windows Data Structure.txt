@@ -1,0 +1,7 @@
+Win32 Thread Information Block /  Thread Environment Block (TEB)
+https://en.wikipedia.org/wiki/Win32_Thread_Information_Block
+
+pointer	FS:[0x18]	GS:[0x30]	Win9x and NT	Linear address of TEB
+
+Introduction to x64 Assembly
+https://software.intel.com/en-us/articles/introduction-to-x64-assembly
